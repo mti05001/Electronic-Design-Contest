@@ -2,7 +2,7 @@
 ---
 <img src="https://github.com/mti05001/-Electronic-Design-Contest-/blob/master/pic.jpg" width="100" height="100" />
 
-<div align=center><img width="100" height="100" src="https://github.com/mti05001/-Electronic-Design-Contest-/blob/master/pic.jpg"/></div>
+<div align=center><img width="400" height="200" src="https://github.com/mti05001/-Electronic-Design-Contest-/blob/master/pic.jpg"/></div>
 
 ![libpic](https://github.com/mti05001/-Electronic-Design-Contest-/blob/master/pic.jpg)
 ## [stm32 cin cout对象实现项目](https://github.com/zgpTree/stm32_cppTest)
