@@ -16,6 +16,6 @@
 3. 将本地仓库推送至github端；
 4. 克隆`刘老师`的仓库到本地，修改readme文件(加入仓库X的链接)，向刘老师提交修改申请(如果是建设者不需要fork操作)。
 
-#Task Lists
+# Task Lists
 - [x] 基本完成说明
 - [ ] 未完成具有针对性的.gitignore文件，可以参考[stm32f429](https://github.com/MaJerle/stm32f429)
