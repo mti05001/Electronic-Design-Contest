@@ -6,15 +6,15 @@
 ## [stm32 cin cout对象实现项目](https://github.com/zgpTree/stm32_cppTest)
 ## [Raspiberry + picamera + opencv Toolbox](https://github.com/IyangDc/py_opencv_tools.git)
 ## [stm32 串口驱动集合](https://github.com/zgpTree/stm32_serial_driver.git)
-## [StateMachine For C51](https://github.com/zgpTree/c51_state_machine.git)```推荐```
+## [StateMachine For C51](https://github.com/zgpTree/c51_state_machine.git)`推荐`
 
-## [stm32f429](https://github.com/MaJerle/stm32f429)```官方```
+## [stm32f429](https://github.com/MaJerle/stm32f429)`官方`
 
-# How to
-1. 注册[github](https://github.com/)帐号，新建一个仓库X；
-2. 本地计算机安装[git](https://git-scm.com/)，在本地项目根目录初始化仓库，连接github上的仓库X；
+# 实验室项目团队的工作方式
+1. 注册[GitHub](https://github.com/)帐号，并新建一个仓库（下文称其为仓库X）；
+2. 本地计算机安装[git](https://git-scm.com/)软件，通过命令行在本地的项目根目录(例如stm32项目根目录)初始化仓库，并连接远程仓库X；
 3. 将本地仓库推送至github端；
-4. 克隆`刘老师`的仓库到本地，修改readme文件(加入仓库X的链接)，向刘老师提交修改申请(如果是建设者不需要fork操作)。
+4. 克隆`刘老师`的仓库到本地，修改readme文件(加入仓库X的链接)，向刘老师提交修改申请(如果是建设者不需要可以直接修改)。
 
 # Task Lists
 - [x] 基本完成说明
