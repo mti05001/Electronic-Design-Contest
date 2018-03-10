@@ -1,4 +1,4 @@
-<div align=center><img width="400" height="250" src="https://github.com/mti05001/-Electronic-Design-Contest-/blob/master/pic.jpg"/></div>
+<div align=center><img width="300" height="180" src="./pic.jpg"/></div>
 
 ---
 
@@ -8,7 +8,7 @@
 - [扩展知识](#扩展知识)
 - [实验室项目团队的工作方式](#实验室项目团队的工作方式)
 - [Todo Lists](#todo-lists)
-
+---
 # 控制类
 - [Raspiberry + picamera + opencv Toolbox](https://github.com/IyangDc/py_opencv_tools.git)
 - [stm32 串口驱动集合](https://github.com/zgpTree/stm32_serial_driver.git)
