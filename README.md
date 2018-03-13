@@ -24,7 +24,7 @@
 - 
 
 # 扩展知识
-- [stm32 cin cout对象实现项目](https://github.com/zgpTree/stm32_cppTest)
+- [stm32 C++ cin cout对象实现项目](https://github.com/zgpTree/stm32_cppTest)
 
 # 201-203项目团队的工作方式
 1. 注册[GitHub](https://github.com/)帐号，并新建一个仓库（下文称其为仓库X）；
@@ -32,7 +32,7 @@
 3. 将本地仓库推送至github端；
 4. 克隆`刘老师`的仓库到本地，修改readme文件(加入仓库X的链接)，向刘老师提交修改申请(如果是建设者不需要可以直接修改)。
 5. 如果你熟悉了这样的工作方式，你会做的更好；你要做的更好，就必须熟悉它。
-6. just like this:
+6. 就像这样:
 <div align=center><img width="800" height="350" src="./工作方式图解.png"/></div>
 
 # 为什么采用这样的工作方式
@@ -44,4 +44,4 @@
 
 # Todo Lists
 - [x] 基本完成工作方式说明
-- [ ] 未完成具有针对性的.gitignore文件，可以参考[stm32f429](https://github.com/MaJerle/stm32f429)，为什么需要这个文件，这样就可以过滤一些不需要的文件，这是有意义的！
+- [ ] 定制.gitignore文件，可以参考[stm32f429](https://github.com/MaJerle/stm32f429)。为什么需要这个文件，它可以告知git过滤一些不需要的文件(如可执行文件、临时对象文件...)，也就减轻了版本控制系统git的工作的负担，这是有意义的！
