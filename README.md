@@ -17,10 +17,10 @@
 - [stm32f429](https://github.com/MaJerle/stm32f429)`官方`
 
 # 仪器仪表类
-- [...]()
+- 
 
 # 飞行器类
-- [...]()
+- 
 
 # 扩展知识
 - [stm32 cin cout对象实现项目](https://github.com/zgpTree/stm32_cppTest)
@@ -32,7 +32,9 @@
 4. 克隆`刘老师`的仓库到本地，修改readme文件(加入仓库X的链接)，向刘老师提交修改申请(如果是建设者不需要可以直接修改)。
 5. just like this:
 <div align=center><img width="800" height="350" src="./工作方式图解.png"/></div>
+6. 如果你熟悉了这样的工作方式，你会做的更好；你要做的更好，就必须去熟悉它。
 
 # Todo Lists
-- [x] 基本完成说明
-- [ ] 未完成具有针对性的.gitignore文件，可以参考[stm32f429](https://github.com/MaJerle/stm32f429)
+- [x] 基本完成工作方式说明
+- [ ] 未完成具有针对性的.gitignore文件，可以参考[stm32f429](https://github.com/MaJerle/stm32f429)，为什么需要这个文件，这样就可以过滤一些不需要的文件，这是有意义的！
+- [ ] 由大二学弟接手维护
