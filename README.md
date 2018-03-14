@@ -21,7 +21,7 @@
 - 
 
 # 飞行器类
-- test
+-
 
 # 扩展知识
 - [stm32 C++ cin cout对象实现项目](https://github.com/zgpTree/stm32_cppTest)
