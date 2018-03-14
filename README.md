@@ -27,7 +27,7 @@
 - [stm32 C++ cin cout对象实现项目](https://github.com/zgpTree/stm32_cppTest)
 
 # 201-203项目团队的工作方式
-1. 注册[GitHub](https://github.com/)帐号，并新建一个仓库Repo（下文称其为仓库X）；
+1. 注册[GitHub](https://github.com/)帐号，并新建一个仓库（下文称其为仓库X）；
 2. 本地计算机安装[git](https://git-scm.com/downloads)软件，通过命令行在本地的项目根目录(例如stm32项目根目录)初始化仓库，并连接远程仓库X；
 3. 将本地仓库推送至github端；
 4. 克隆`刘老师`的仓库到本地，修改readme文件(加入仓库X的链接)，向刘老师提交修改申请(如果是建设者不需要可以直接修改)。
@@ -65,7 +65,7 @@
     <div align=center><img src="./picture/gitbashCommand3.png"/></div>
     <div align=center><img src="./picture/gitbashCommand4.png"/></div>
     <div align=center><img src="./picture/gitbashCommand4.png"/></div>
-5. 安装VSCode(暂时未能解决windows环境vscode图片不能预览的问题)
+5. 安装VSCode(暂时未能解决windows环境vscode图片不能预览的问题--已解决，已知bug)
 # Todo Lists
 - [x] 基本完成工作方式说明
 - [ ] 定制.gitignore文件，可以参考[stm32f429](https://github.com/MaJerle/stm32f429)。为什么需要这个文件，它可以告知git过滤一些不需要的文件(如可执行文件、临时对象文件...)，也就减轻了版本控制系统git的工作的负担，这是有意义的！
