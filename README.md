@@ -1,4 +1,4 @@
-<div align=center><img width="300" height="180" src="./pic.jpg"/></div>
+<div align=center><img width="300" height="180" src="./picture/pic.jpg"/></div>
 
 ---
 
@@ -38,7 +38,7 @@
 4. 克隆`刘老师`的仓库到本地，修改readme文件(加入仓库X的链接)，向刘老师提交修改申请(如果是建设者不需要可以直接修改)。
 5. 如果你熟悉了这样的工作方式，你会做的更好；你要做的更好，就必须熟悉它。
 6. 就像这样:
-<div align=center><img width="750" height="380" src="./工作方式图解.png"/></div>
+<div align=center><img width="750" height="380" src="./picture/工作方式图解.png"/></div>
 
 # 为什么采用这样的工作方式
 - 刘老师希望实验室的软件项目有更优质的样例程序，有益于后来人学习；不至于每一届都重复造轮子，这不是否定造轮子。
