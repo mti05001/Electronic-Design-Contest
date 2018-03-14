@@ -42,6 +42,30 @@
 - 这样的工作方式并不容易上手，但是上手后带来的效率不可小觑，正所谓磨刀不误打柴工。
 - 给你笑脸 :smile:
 
+# 详细说明
+1. 需要的所有文件如图![](./picture/需要的文件.png)
+
+    - Demo目录是项目根目录(你可以选择任何一个项目根目录)
+    - [Git-*.exe](https://git-scm.com/downloads)是git安装程序
+    - [VSCodeSetup-*.exe](https://git-scm.com/downloads)是Visual Studio Code，微软开源的编辑器，它支持插件预览github风格的markdown
+
+2. 本地安装Git程序，一直点击next默认安装即可，安装完成后鼠标右击菜单如图
+    <div align=center><img src="./picture/鼠标右击菜单.png"/></div>
+
+3. github新建仓库如图
+    <div align=center><img src="./picture/1-new repo.png"/></div>
+    <div align=center><img src="./picture/2-new repo.png"/></div>
+    实际上，github是非常友好的，它提示了Quick setup:
+    <div align=center><img src="./picture/3-new repo.png"/></div>
+4. 打开`Git Bash`
+    <div align=center><img src="./picture/gitBash.png"/></div>
+    改变工作目录到项目根目录
+    <div align=center><img src="./picture/gitbashCommand.png"/></div>
+    <div align=center><img src="./picture/gitbashCommand2.png"/></div>
+    <div align=center><img src="./picture/gitbashCommand3.png"/></div>
+    <div align=center><img src="./picture/gitbashCommand4.png"/></div>
+    <div align=center><img src="./picture/gitbashCommand4.png"/></div>
+5. 安装VSCode
 # Todo Lists
 - [x] 基本完成工作方式说明
 - [ ] 定制.gitignore文件，可以参考[stm32f429](https://github.com/MaJerle/stm32f429)。为什么需要这个文件，它可以告知git过滤一些不需要的文件(如可执行文件、临时对象文件...)，也就减轻了版本控制系统git的工作的负担，这是有意义的！
