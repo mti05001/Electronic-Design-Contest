@@ -65,7 +65,7 @@
     <div align=center><img src="./picture/gitbashCommand3.png"/></div>
     <div align=center><img src="./picture/gitbashCommand4.png"/></div>
     <div align=center><img src="./picture/gitbashCommand4.png"/></div>
-5. 安装VSCode
+5. 安装VSCode(暂时未能解决windows环境vscode图片不能预览的问题)
 # Todo Lists
 - [x] 基本完成工作方式说明
 - [ ] 定制.gitignore文件，可以参考[stm32f429](https://github.com/MaJerle/stm32f429)。为什么需要这个文件，它可以告知git过滤一些不需要的文件(如可执行文件、临时对象文件...)，也就减轻了版本控制系统git的工作的负担，这是有意义的！
