@@ -12,12 +12,17 @@
 
 ---
 # 控制类
-- [C51贪吃蛇游戏机](https://github.com/ywg121020/51_sanke_game)`推荐`
-- [StateMachine For C51](https://github.com/zgpTree/c51_state_machine.git)`推荐`
+- [C51贪吃蛇游戏机](https://github.com/ywg121020/51_sanke_game)`推荐` **林佳涛**
+- [StateMachine For C51](https://github.com/zgpTree/c51_state_machine.git)`推荐` **赵国潘**
 - [stm32f429](https://github.com/MaJerle/stm32f429)`官方`
     - HC-SR04超声波测量距离(超声波传感器)
     - GPS - Read GPS data
     - ...
+- [无刷电机练习]()`等待添加`
+    - 期望实现正弦运动,并能够设定中心位置的高度
+    - 建议使用超声波传感器+测距平台
+    - ...
+- [风力摆控制系统解析及源码](http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=476344&extra=page%3D1&page=1)
 - [stm32 串口驱动集合](https://github.com/zgpTree/stm32_serial_driver.git)
 - [Raspiberry + picamera + opencv Toolbox](https://github.com/IyangDc/py_opencv_tools.git)
 
