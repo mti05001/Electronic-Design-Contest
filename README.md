@@ -22,9 +22,11 @@
     - 期望实现正弦运动,并能够设定中心位置的高度
     - 建议使用超声波传感器+测距平台
     - ...
-- [风力摆控制系统解析及源码](http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=476344&extra=page%3D1&page=1)
-- [stm32 串口驱动集合](https://github.com/zgpTree/stm32_serial_driver.git)
-- [Raspiberry + picamera + opencv Toolbox](https://github.com/IyangDc/py_opencv_tools.git)
+- [风力摆控制系统解析及源码](http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=476344&extra=page%3D1&page=1) **网上大佬**
+- [stm32 串口驱动集合](https://github.com/zgpTree/stm32_serial_driver.git) **赵国潘**
+    - 我通过配置stm32f103每一个串口的驱动了解了很多知识
+    - 但是有一些没完成
+- [Raspiberry + picamera + opencv Toolbox](https://github.com/IyangDc/py_opencv_tools.git) **赵博文**
 
 
 # 仪器仪表类
