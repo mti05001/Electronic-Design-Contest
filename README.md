@@ -42,32 +42,39 @@
     - 当时想使用C++丰富的语言特性在单片机中编程，但之后意识到C语言的标准库提供了很大一部分实用的函数
 
 # 201-203项目团队的工作方式
-1. 注册[GitHub](https://github.com/)帐号，并新建一个仓库（下文称其为仓库X）；
-2. 本地计算机安装[git](https://git-scm.com/downloads)软件，通过命令行在本地的项目根目录(例如stm32项目根目录)初始化仓库，并连接远程仓库X；
-3. 将本地仓库推送至github端；
-4. 克隆`刘老师`的仓库到本地，修改readme文件(加入仓库X的链接)，向刘老师提交修改申请(如果是建设者不需要可以直接修改)。
-5. 如果你熟悉了这样的工作方式，你会做的更好；你要做的更好，就必须熟悉它。
-6. 就像这样:
+## 以`C51 状态机`项目为例说明
+1. 在本地计算机建立`C51 状态机`项目的仓库，与github的仓库连接，推送到github端；
+1. fork[`刘燕娜的仓库`](https://github.com/mti05001/Electronic-Design-Contest)到本地计算机，加入`C51 状态机`仓库的链接到README.md文件，向刘老师提交修改申请；(若是建设者可以直接修改)
+1. 工作方式图解，请参考[详细说明](#详细说明):
 <div align=center><img width="750" height="380" src="./picture/工作方式图解.png"/></div>
 
+## 推荐阅读
+- [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001373962845513aefd77a99f4145f0a2c7a7ca057e7570000)
+
 ## 为什么采用这样的工作方式
-- 刘老师希望实验室的软件项目有更优质的样例程序，有益于后来人学习；不至于每一届都重复造轮子，这不是否定造轮子。
-- 这样的工作方式支持多人协同开发软件项目，团队意识可以受到培养，毕竟这是一种趋势，协同开发是软件工程师必须掌握的技能。
+- 实验室的软件项目需要优秀的样例程序，这有益于后来人学习；不至于每一届都重复造轮子。
+- 支持多人协同开发软件项目，利于培养良好的团队意识，协同开发是软件工作者必须掌握的技能。
 - 这培养我们软件开发要考虑维护的工作如何进行，如何更具有可读性，因为你的项目可能由后来人接手，谁都不愿意看到糟糕的程序。
-- 这样的工作方式并不容易上手，但是上手后带来的效率不可小觑，正所谓磨刀不误打柴工。
+- 这不容易上手，但磨刀不误打柴工。
 - :smile:
 
-# 详细说明
+# Todo Lists
+- [x] 完成工作方式说明
+- [ ] 定制.gitignore文件，可以参考[stm32f429](https://github.com/MaJerle/stm32f429)。这个文件可以告知git过滤文件(如可执行文件、临时对象文件...)，也就减轻了版本控制系统git的工作的负担！
+- [ ] 完成详细说明
+
+# 附录
+## 详细说明
 1. 需要的所有文件如图![](./picture/需要的文件.png)
 
     - Demo目录是项目根目录(你可以选择任何一个项目根目录)
     - [Git-*.exe](https://git-scm.com/downloads)是git安装程序
     - [VSCodeSetup-*.exe](https://git-scm.com/downloads)是Visual Studio Code，微软开源的编辑器，它支持插件预览github风格的markdown
 
-1. 本地安装Git程序，一直点击next默认安装即可，安装完成后鼠标右击菜单如图
+1. 本地计算机本地安装[Git](https://git-scm.com/downloads)程序，一直点击next默认安装即可，安装完成后鼠标右击菜单如图
     <div align=center><img src="./picture/鼠标右击菜单.png"/></div>
 
-1. github新建仓库如图
+1. 注册[GitHub](https://github.com/)帐号，并新建一个仓库（下文称其为仓库X），github新建仓库如图
     <div align=center><img src="./picture/1-new repo.png"/></div>
     <div align=center><img src="./picture/2-new repo.png"/></div>
     实际上，github是非常友好的，它提示了Quick setup:
@@ -81,8 +88,3 @@
     <div align=center><img src="./picture/gitbashCommand4.png"/></div>
     <div align=center><img src="./picture/gitbashCommand4.png"/></div>
 1. 安装VSCode(暂时未能解决windows环境vscode图片不能预览的问题--已解决，已知bug)
-
-# Todo Lists
-- [x] 基本完成工作方式说明
-- [ ] 定制.gitignore文件，可以参考[stm32f429](https://github.com/MaJerle/stm32f429)。为什么需要这个文件，它可以告知git过滤一些不需要的文件(如可执行文件、临时对象文件...)，也就减轻了版本控制系统git的工作的负担，这是有意义的！
-- [ ] 完成详细说明
