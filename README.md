@@ -40,6 +40,7 @@
 # 扩展知识
 - [stm32使用C++ cout对象](https://github.com/zgpTree/stm32_cppTest) **赵国潘**
     - 当时想使用C++丰富的语言特性在单片机中编程，但之后意识到C语言的标准库提供了很大一部分实用的函数
+    - 当然，如果你感兴趣，请移步[stm32plus](https://github.com/andysworkshop/stm32plus)
 
 # 201-203项目团队的工作方式
 ## 以`C51 状态机`项目为例说明
