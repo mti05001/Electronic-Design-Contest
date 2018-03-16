@@ -75,27 +75,3 @@
 
 ---
 # 附录
-## 详细说明
-1. 需要的所有文件如图![](./picture/需要的文件.png)
-
-    - Demo目录是项目根目录(你可以选择任何一个项目根目录)
-    - [Git-*.exe](https://git-scm.com/downloads)是git安装程序
-    - [VSCodeSetup-*.exe](https://git-scm.com/downloads)是Visual Studio Code，微软开源的编辑器，它支持插件预览github风格的markdown
-
-1. 本地计算机本地安装[Git](https://git-scm.com/downloads)程序，一直点击next默认安装即可，安装完成后鼠标右击菜单如图
-    <div align=center><img src="./picture/鼠标右击菜单.png"/></div>
-
-1. 注册[GitHub](https://github.com/)帐号，并新建一个仓库（下文称其为仓库X），github新建仓库如图
-    <div align=center><img src="./picture/1-new repo.png"/></div>
-    <div align=center><img src="./picture/2-new repo.png"/></div>
-    实际上，github是非常友好的，它提示了Quick setup:
-    <div align=center><img src="./picture/3-new repo.png"/></div>
-1. 打开`Git Bash`
-    <div align=center><img src="./picture/gitBash.png"/></div>
-    改变工作目录到项目根目录
-    <div align=center><img src="./picture/gitbashCommand.png"/></div>
-    <div align=center><img src="./picture/gitbashCommand2.png"/></div>
-    <div align=center><img src="./picture/gitbashCommand3.png"/></div>
-    <div align=center><img src="./picture/gitbashCommand4.png"/></div>
-    <div align=center><img src="./picture/gitbashCommand4.png"/></div>
-1. 安装VSCode(暂时未能解决windows环境vscode图片不能预览的问题--已解决，已知bug)
