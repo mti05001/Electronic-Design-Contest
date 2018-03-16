@@ -41,6 +41,13 @@
 - [stm32使用C++ cout对象](https://github.com/zgpTree/stm32_cppTest) **赵国潘**
     - 当时想使用C++丰富的语言特性在单片机中编程，但之后意识到C语言的标准库提供了很大一部分实用的函数
     - 当然，如果你感兴趣，请移步[stm32plus](https://github.com/andysworkshop/stm32plus)
+- [网络爬虫](https://baike.baidu.com/item/网络爬虫/)   **陈鹏昀**
+    - 利用网络爬虫技术获取互联网上公开的数据，加以存储分析
+    - 可以使用python内置urllib，re等模块，或使用开源爬虫架构如[Scrapy](https://baike.baidu.com/item/scrapy)（[官方文档](https://doc.scrapy.org/en/latest/intro/overview.html)）
+    - 使用爬虫时要注意对爬虫进行伪装，模仿浏览器获取数据，但也要遵守道德，以免对对方服务器造成不便
+    - [获取可用的代理IP](https://github.com/ChenPY95/get-proxy-IP)  
+    - [查询天气情况](https://github.com/ChenPY95/get-weather) 
+    - [百度词条](https://github.com/ChenPY95/scrapy-baiduBaikeCiTiao)
 
 # 201-203项目团队的工作方式
 ## 以`C51 状态机`项目为例说明
