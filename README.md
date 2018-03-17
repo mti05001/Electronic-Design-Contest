@@ -45,10 +45,7 @@
     - 利用网络爬虫技术获取互联网上公开的数据，加以存储分析。有兴趣可以深入[数据挖掘](https://baike.baidu.com/item/数据挖掘)
     - 可以使用python内置urllib，re等模块，或第三方request，BeautifulSoup模块（需要pip下载），或使用开源爬虫架构如[Scrapy](https://baike.baidu.com/item/scrapy)（[官方文档](https://doc.scrapy.org/en/latest/intro/overview.html)），方法多样
     - 使用爬虫程序时要注意对爬虫进行伪装，以免某些需要认证的网站识别出这是爬虫程序，从而报错。可以模仿浏览器，使用Cookie等。很多网站有[robots协议](https://baike.baidu.com/item/robots%E5%8D%8F%E8%AE%AE)（类似于公交车上的老弱病残专座），不必严格遵守，但也要遵守道德，避免过度频繁的爬取，以免对对方服务器造成不便
-    - [获取代理IP](https://github.com/ChenPY95/get-proxy-IP)  
-    - [查询天气情况](https://github.com/ChenPY95/get-weather) 
-    - [下载网易云音乐](https://github.com/ChenPY95/get-wangyiyun-music)
-    - [百度词条](https://github.com/ChenPY95/scrapy-baiduBaikeCiTiao)
+    - [pythonSpider](https://gitee.com/ChenPY95/pythonSpider)  
 
 # 201-203项目团队的工作方式
 ## 以`C51 状态机`项目为例说明
