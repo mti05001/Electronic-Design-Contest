@@ -39,8 +39,7 @@
 
 # 扩展知识
 - [stm32使用C++ cout对象](https://github.com/zgpTree/stm32_cppTest) **赵国潘**
-    - 当时想使用C++丰富的语言特性在单片机中编程，但之后意识到C语言的标准库提供了很大一部分实用的函数
-    - 当然，如果你感兴趣，请移步[stm32plus](https://github.com/andysworkshop/stm32plus)
+    - 当时想使用C++丰富的语言特性在单片机中编程，如果你感兴趣，请移步[stm32plus](https://github.com/andysworkshop/stm32plus)
 - [网络爬虫](https://baike.baidu.com/item/网络爬虫/)   **陈鹏昀**
     - 利用网络爬虫技术获取互联网上公开的数据，加以存储分析
     - 可以使用python内置urllib，re等模块，或使用开源爬虫架构如[Scrapy](https://baike.baidu.com/item/scrapy)（[官方文档](https://doc.scrapy.org/en/latest/intro/overview.html)）
@@ -61,7 +60,6 @@
 - 支持多人协同开发软件项目，利于培养良好的团队意识，协同开发是软件工作者必须掌握的技能。
 - 这培养我们软件开发要考虑维护的工作如何进行，如何更具有可读性，因为你的项目可能由后来人接手，谁都不愿意看到糟糕的程序。
 - 这不容易上手，但磨刀不误打柴工。
-- :smile:
 
 ## 推荐阅读
 - [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001373962845513aefd77a99f4145f0a2c7a7ca057e7570000)
