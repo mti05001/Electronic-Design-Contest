@@ -39,7 +39,7 @@
 
 # 扩展知识
 - [stm32使用C++ cout对象](https://github.com/zgpTree/stm32_cppTest) **赵国潘**
-    - 当时想使用C++丰富的语言特性在单片机中编程，如果你感兴趣，请移步[stm32plus](https://github.com/andysworkshop/stm32plus)
+    - 大三时想使用C++丰富的语言特性在单片机中编程，如果你感兴趣，请移步[stm32plus](https://github.com/andysworkshop/stm32plus)
 - [网络爬虫](https://baike.baidu.com/item/网络爬虫/)   **陈鹏昀**
     - 利用网络爬虫技术获取互联网上公开的数据，加以存储分析。有兴趣可以深入[数据挖掘](https://baike.baidu.com/item/数据挖掘)
     - 可以使用python内置urllib，re等模块，或使用开源爬虫架构如[Scrapy](https://baike.baidu.com/item/scrapy)（[官方文档](https://doc.scrapy.org/en/latest/intro/overview.html)）
