@@ -28,8 +28,6 @@
 - [stm32 串口驱动集合](https://github.com/zgpTree/stm32_serial_driver.git) **赵国潘**
     - 我通过配置stm32f103每一个串口的驱动了解了很多知识，但是部分没完成。
 - [Raspiberry + picamera + opencv Toolbox](https://github.com/IyangDc/py_opencv_tools.git) **赵博文**
-- [2017电赛B题-板球控制系统](https://github.com/xiaohongxiao/ball_rolling_control_system) :star: **鲁乾鹏**  
-
 
 
 # 仪器仪表类
