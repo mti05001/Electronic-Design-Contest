@@ -1,0 +1,9 @@
+- [网络爬虫](https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB)   **陈鹏昀**
+    - 利用网络爬虫技术获取互联网上公开的数据，加以存储分析。有兴趣可以深入[数据挖掘](https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98)，[数据分析](https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
+    - 可以使用python内置urllib，re等模块，或第三方request，BeautifulSoup模块等（需要pip下载），或使用开源爬虫架构如[Scrapy](https://baike.baidu.com/item/scrapy)（[官方文档](https://doc.scrapy.org/en/latest/intro/overview.html)），方法多样
+    - [pythonLearning](https://github.com/ChenPY95/pythonLearning)
+- [浙大PAT](https://github.com/liuchuo/PAT) **浙大萌萌的程序媛**
+- [毒鸡汤](https://github.com/qianxinbubian/Poisonous_chicken_soup) **李明华**
+    - 学习之余，喝碗毒鸡汤压压惊
+    - 欢迎大家一起加入毒鸡汤队伍
+- [慧鱼机械设计大赛](https://gitee.com/qiaoxiaoqianxi/huiyujixieshejidasai.git) **李明华**
