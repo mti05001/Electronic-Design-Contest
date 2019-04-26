@@ -36,6 +36,8 @@
     - [Raspiberry + picamera + opencv Toolbox](https://github.com/IyangDc/py_opencv_tools.git) 
     - [板球控制系统](https://github.com/IyangDc/Board-ball_control_system) 
     - [电光灯环](https://github.com/IyangDc/Point_Ring) 
+- [mma8451三轴加速度计](https://github.com/yinwujiexian/mma8451.git) **金昊**
+- [STM32F10x新建工程——vscode&&git](https://github.com/yinwujiexian/STM32F10x) **金昊**
 
 # 仪器仪表类
 - 
