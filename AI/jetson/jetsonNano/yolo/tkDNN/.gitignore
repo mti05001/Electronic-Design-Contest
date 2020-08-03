@@ -1,0 +1,16 @@
+*~
+build/
+.vscode/
+*.bin
+*.pyc
+*.prototxt
+*.caffemodel
+*.h5
+*.tar.gz
+*.weights
+.idea/
+*.hdf5
+*.pk
+*.table
+demo/COCO_val2017
+demo/BDD100K_val
