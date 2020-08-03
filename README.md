@@ -49,7 +49,7 @@
 =======
 - 
 # AI人工智能
-  - [jetson NANO 折腾记](https://gitee.com/mti05001/Electronic-Design-Contest/blob/master/AI/jetson/jetsonNano/jetson%20nano%20%E6%8A%98%E8%85%BE%E8%AE%B0.md)
+  - [jetson NANO 折腾记](https://github.com/mti05001/Electronic-Design-Contest/blob/master/AI/jetson/jetsonNano/jetson%20nano%20%E6%8A%98%E8%85%BE%E8%AE%B0.md)
 
 
 
